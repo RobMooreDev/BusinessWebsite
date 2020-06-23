@@ -1,0 +1,21 @@
+.ant-card-head-wrapper{
+    background-color: transparent;
+}
+
+.ant-card-head{
+    color: #e6e6e6;
+    background: rgb(201,95,95);
+    background: linear-gradient(135deg, rgba(201,95,95,1) 0%, rgba(155,58,87,1) 100%);
+    border-radius: 0;
+}
+
+.card{
+    justify-content: center;
+    width: 300px;
+}
+
+.card-container{
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+}

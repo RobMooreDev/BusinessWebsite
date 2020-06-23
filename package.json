@@ -12,10 +12,12 @@
     "build": "webpack --config=config/webpack.prod.js"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.2.1",
     "antd": "^4.0.3",
     "less": "^3.11.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-scroll": "^1.7.16"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",

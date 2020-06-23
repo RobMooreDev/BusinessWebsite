@@ -1,7 +1,21 @@
-.App {
-  text-align: center;
-  margin: 0 30%;
-  font-family: 'Courier New', Courier, monospace;
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.layout{
+  display: flex;
+}
+
+.header{
+  background: rgb(42,70,138);
+  background: linear-gradient(135deg, rgba(42,70,138,1) 0%, rgba(155,58,58,1) 100%);
+}
+
+.content {
+  background: rgb(221,221,221);
+  background: linear-gradient(135deg, rgb(208, 208, 208) 0%, rgba(232,232,232,1) 100%);
+}
+.footer{
+
 }
 
 a {
